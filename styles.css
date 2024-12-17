@@ -1,0 +1,27 @@
+/* Stile per l'intero corpo della pagina */
+body {
+    font-family: 'Times New Roman';
+    background-color: lightblue;
+}
+
+/* Stile per il titolo principale h1 usando l'ID */
+#main-title {
+    color: #ffffff; /* Colore del testo */
+    background-color: green; /* Colore di sfondo */
+}
+
+/* Stile per la sezione h2 usando la classe */
+.section-title {
+    color: violet; /* Colore del testo */
+}
+
+/* Stile per il paragrafo p usando la classe */
+.description {
+    color: blue; /* Colore del testo */
+    font-size: 16px; /* Grandezza testo */
+}
+
+/* Stile per la lista ul usando la classe */
+.item-list {
+    background-color: red; /* Colore di sfondo */
+}
